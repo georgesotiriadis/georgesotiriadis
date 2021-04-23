@@ -7,9 +7,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: More cve ports and build hacking tools!
 
-### Connect with me:
 
-[<img align="left" alt="Compromised | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/>
 
