@@ -1,5 +1,5 @@
 ## Hi there, I'm GeorgeSotiriadis - aka Compromised 👋
- <img src="https://tryhackme-badges.s3.amazonaws.com/thdragon5.png" alt="TryHackMe">
+ <img src="https://user-images.githubusercontent.com/40565316/115936810-e5ac6280-a49e-11eb-8df1-bbca09db1b79.png" alt="TryHackMe">
 
 ## I'm a Cybersecurity lover And Developer!!
 
