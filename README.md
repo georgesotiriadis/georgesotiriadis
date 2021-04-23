@@ -4,7 +4,7 @@
 ## I'm a Cybersecurity lover And Developer!!
 
 - 🌱 I’m currently learning everything 
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking fot collaborating with other content creators
 - 🥅 2021 Goals: More cve ports and build hacking tools!
 
 
